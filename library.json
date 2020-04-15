@@ -1,0 +1,19 @@
+{
+  "name": "Teensy Core Libraries for Arduino",
+  "frameworks": "Arduino",
+  "platforms": "Teensy",
+  "description": "Teensy Core Libraries for Arduino",
+  "url": "http://www.pjrc.com/teensy/",
+  "version": "1.51",
+  "authors":
+  {
+    "name": "Paul Stoffregen",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/PaulStoffregen/Cores"
+  },
+  "includeDir": "teensy3"
+}
